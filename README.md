@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me
+## Systems Engineer focused on mission-driven architecture, secure system integration, and human-in-the-loop decision support
 
 👋 Hello there! I'm Ryan Welch, a Systems & Security Engineer with over 4 years of experience designing, securing, and operating cloud-native, mission-critical systems.
 
